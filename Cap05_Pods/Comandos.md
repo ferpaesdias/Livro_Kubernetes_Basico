@@ -101,7 +101,7 @@ kubectl exec -it kuard dash
 
 <br>
 
-### Copiando arquvos de e para um container
+### Copiando arquvos de e para os containers
 
 
 Copiando arquvios de um container para o seu computador local
